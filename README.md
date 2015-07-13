@@ -13,3 +13,6 @@ This is for the Data Scientist course from John Hopkins University taken on Cour
 * Pratical Machine Learning
 * Developing Data Products
 * Data Science Capstone
+
+## Data Sharing
+Professor Leek from John Hopkins Univeristy has a great link to teach you what you need to consider when sharing data. https://github.com/jtleek/datasharing I found this to be very useful and informative.
